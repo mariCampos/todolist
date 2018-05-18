@@ -1,0 +1,21 @@
+.LoginPage {
+    background: white !important;
+}
+
+#header {
+    padding: 0;
+    width: 100%;
+    position: fixed;
+    text-align: center;
+    z-index: 1;
+}
+
+html,
+body,
+.Router {
+    height: 100%;
+}
+
+.ant-layout-header {
+    background-color: #94618E !important;
+}
